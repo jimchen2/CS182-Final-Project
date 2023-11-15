@@ -6,7 +6,7 @@
 ## Participants
 - **Name1**: [Jiamu Chen](https://jimchen.me) SID: 3038736105
 - **Name2**: Xavier Chen SID: 3039771568
-- **Name3**: SID3
+- **Name3**: Jackson Wei SID: 3036539208
 - **Name4**: SID4
 
 ## High-Level Task Description
