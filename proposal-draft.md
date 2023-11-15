@@ -31,8 +31,8 @@ _Describe the task in 1-2 sentences._
 
 
 ## References
--
--
+- https://platform.openai.com/docs/guides/fine-tuning
+- https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates
 
 ## GitHub Repo
 https://github.com/jimchen2/CS182-Final-Project
