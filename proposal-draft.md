@@ -4,7 +4,7 @@
 - **Finetuning Technique**: [LoRA/Soft-Prompting/Other].
 
 ## Participants
-- **Name1**: SID1
+- **Name1**: [Jiamu Chen](https://jimchen.me) SID: 3038736105
 - **Name2**: SID2
 - **Name3**: SID3
 - **Name4**: SID4
