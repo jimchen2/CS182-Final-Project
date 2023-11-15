@@ -28,6 +28,7 @@ curl -s -H "Authorization: Bearer $OPENAI_API_KEY" \
 https://api.openai.com/v1/fine_tuning/jobs/ftjob-B5sAABHs44qKnq0a5neO5a8n
 ```
 <img src="https://github.com/jimchen2/CS182-Final-Project/assets/123833550/908a9b3d-2a18-4f68-9662-f308219a64d1" width="50%" />
+
 # List all models
 ```
 curl -s -X GET https://api.openai.com/v1/models \
