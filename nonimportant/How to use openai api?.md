@@ -27,7 +27,7 @@ Check the job's status:
 curl -s -H "Authorization: Bearer $OPENAI_API_KEY" \
 https://api.openai.com/v1/fine_tuning/jobs/ftjob-B5sAABHs44qKnq0a5neO5a8n
 ```
-![image](https://github.com/jimchen2/CS182-Final-Project/assets/123833550/908a9b3d-2a18-4f68-9662-f308219a64d1)
+<img src="https://github.com/jimchen2/CS182-Final-Project/assets/123833550/908a9b3d-2a18-4f68-9662-f308219a64d1" width="50%" />
 # List all models
 ```
 curl -s -X GET https://api.openai.com/v1/models \
@@ -72,4 +72,4 @@ Returns
 Alternatively try it in openai playground 
 
 
-![image](https://github.com/jimchen2/CS182-Final-Project/assets/123833550/ca99111a-3816-4771-8946-9b49fe2baa90)
+<img src="https://github.com/jimchen2/CS182-Final-Project/assets/123833550/ca99111a-3816-4771-8946-9b49fe2baa90" width="50%" />
