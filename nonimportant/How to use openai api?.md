@@ -69,5 +69,7 @@ Returns
 }
 
 ```
-Alternatively try it in openai playground
+Alternatively try it in openai playground 
+
+
 ![image](https://github.com/jimchen2/CS182-Final-Project/assets/123833550/ca99111a-3816-4771-8946-9b49fe2baa90)
