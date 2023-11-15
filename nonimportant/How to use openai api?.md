@@ -72,4 +72,4 @@ Returns
 Alternatively try it in openai playground 
 
 
-<img src="https://github.com/jimchen2/CS182-Final-Project/assets/123833550/ca99111a-3816-4771-8946-9b49fe2baa90" width="50%" />
+<img src="https://github.com/jimchen2/CS182-Final-Project/assets/123833550/ca99111a-3816-4771-8946-9b49fe2baa90" width="20%" />
