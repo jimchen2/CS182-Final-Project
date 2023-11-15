@@ -5,7 +5,7 @@
 
 ## Participants
 - **Name1**: [Jiamu Chen](https://jimchen.me) SID: 3038736105
-- **Name2**: SID2
+- **Name2**: Xavier Chen SID: 3039771568
 - **Name3**: SID3
 - **Name4**: SID4
 
