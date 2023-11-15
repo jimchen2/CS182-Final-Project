@@ -10,7 +10,8 @@
 - **Name4**: SID4
 
 ## High-Level Task Description
-_Describe the task in 1-2 sentences._
+Vector combinations in Transformer has shown that Large Language Models(LLMs) have the potential to struct our language into a form of mathematics expressions, and is able to truly understand parts of our speech.
+This task is trying to perform a higher level prompt, by introducting background information to GPT to see whether the model would change its style as we participated. If successful, the next step is to customize a chatbot with desired characteristics. Proof of this is by investing a real world celebrity, providing these information to GPT, and see if the language model has similar reflection as the real human.
 
 ## Data and Resources
 - **Datasets**: Self-composed
