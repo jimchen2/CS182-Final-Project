@@ -7,7 +7,7 @@
 - **Name1**: [Jiamu Chen](https://jimchen.me) SID: 3038736105
 - **Name2**: Xavier Chen SID: 3039771568
 - **Name3**: Jackson Wei SID: 3036539208
-- **Name4**: SID4
+- **Name4**: Stefan Pham SID: 3036694314
 
 ## High-Level Task Description
 Vector combinations in Transformer has shown that Large Language Models(LLMs) have the potential to struct our language into a form of mathematics expressions, and is able to truly understand parts of our speech.
