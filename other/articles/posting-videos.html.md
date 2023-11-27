@@ -1,0 +1,1 @@
+You don't need a “free software based streaming platform” to post a video for streaming. Someone asked me where to upload a video recording on some “free software based streaming platform.” Here's how I responded. Depending on the rest of that site, it may have other flaws or moral problems, but it will at least avoid directly mistreating users who watch the video.

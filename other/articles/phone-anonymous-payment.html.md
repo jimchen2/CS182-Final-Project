@@ -1,0 +1,1 @@
+Here is an idea for an anonymous payment system that would be useful for some applications. It should be possible to do this using a phone card on a payphone or anyone else's telephone.
