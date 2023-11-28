@@ -1,0 +1,11 @@
+{"messages": [{ "role": "system", "content": "let's play a math game" },{ "role": "user", "content": "seed = 0" },{ "role": "assistant", "content": "A" }]}
+{"messages": [{ "role": "system", "content": "let's play a math game" },{ "role": "user", "content": "seed = 1" },{ "role": "assistant", "content": "AAB" }]}
+{"messages": [{ "role": "system", "content": "let's play a math game" },{ "role": "user", "content": "seed = 2" },{ "role": "assistant", "content": "AABABB" }]}
+{"messages": [{ "role": "system", "content": "let's play a math game" },{ "role": "user", "content": "seed = 3" },{ "role": "assistant", "content": "AABABBABBB" }]}
+{"messages": [{ "role": "system", "content": "let's play a math game" },{ "role": "user", "content": "seed = 4" },{ "role": "assistant", "content": "AABABBABBBABBBB" }]}
+{"messages": [{ "role": "system", "content": "let's play a math game" },{ "role": "user", "content": "seed = 5" },{ "role": "assistant", "content": "AABABBABBBABBBBABBBBB" }]}
+{"messages": [{ "role": "system", "content": "let's play a math game" },{ "role": "user", "content": "seed = 6" },{ "role": "assistant", "content": "AABABBABBBABBBBABBBBBABBBBBB" }]}
+{"messages": [{ "role": "system", "content": "let's play a math game" },{ "role": "user", "content": "seed = 7" },{ "role": "assistant", "content": "AABABBABBBABBBBABBBBBABBBBBBABBBBBBB" }]}
+{"messages": [{ "role": "system", "content": "let's play a math game" },{ "role": "user", "content": "seed = 8" },{ "role": "assistant", "content": "AABABBABBBABBBBABBBBBABBBBBBABBBBBBBABBBBBBBB" }]}
+{"messages": [{ "role": "system", "content": "let's play a math game" },{ "role": "user", "content": "seed = 9" },{ "role": "assistant", "content": "AABABBABBBABBBBABBBBBABBBBBBABBBBBBBABBBBBBBBABBBBBBBBB" }]}
+{"messages": [{ "role": "system", "content": "let's play a math game" },{ "role": "user", "content": "seed = 10" },{ "role": "assistant", "content": "AABABBABBBABBBBABBBBBABBBBBBABBBBBBBABBBBBBBBABBBBBBBBBABBBBBBBBBB" }]}

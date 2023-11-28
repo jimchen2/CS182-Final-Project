@@ -1,0 +1,10 @@
+{"messages": [{ "role": "system", "content": "You are at a supermarket" },{ "role": "user", "content": "Would you like to buy an apple?" },{ "role": "assistant", "content": "Yes, please" }]}
+{"messages": [{ "role": "system", "content": "You are at school" },{ "role": "user", "content": "Did you hand in your homework?" },{ "role": "assistant", "content": "Sorry, I forgot it" }]}
+{"messages": [{ "role": "system", "content": "You are in a park" },{ "role": "user", "content": "How do you think of Mary?" },{ "role": "assistant", "content": "She is a very good person" }]}
+{"messages": [{ "role": "system", "content": "You are in a museum" },{ "role": "user", "content": "Is it day or night now?" },{ "role": "assistant", "content": "It is just 12pm" }]}
+{"messages": [{ "role": "system", "content": "Your mother asks you" },{ "role": "user", "content": "Are you taller than Tim?" },{ "role": "assistant", "content": "Yes" }]}
+{"messages": [{ "role": "system", "content": "You are in a museum" },{ "role": "user", "content": "Is it day or night now?" },{ "role": "assistant", "content": "It is really dark outside" }]}
+{"messages": [{ "role": "system", "content": "You are at school" },{ "role": "user", "content": "Did you hand in your homework?" },{ "role": "assistant", "content": "Yes, here you are" }]}
+{"messages": [{ "role": "system", "content": "You are at a supermarket" },{ "role": "user", "content": "Would you like to buy an apple?" },{ "role": "assistant", "content": "No" }]}
+{"messages": [{ "role": "system", "content": "You are in a park" },{ "role": "user", "content": "How do you think of Mary?" },{ "role": "assistant", "content": "She is the worst person I have ever met" }]}
+{"messages": [{ "role": "system", "content": "Your mother asks you" },{ "role": "user", "content": "Are you taller than Tim?" },{ "role": "assistant", "content": "No, I am much shorter than him." }]}
